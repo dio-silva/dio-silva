@@ -7,5 +7,5 @@ Hello! I’m Diogo Silva 👋 Quick fact about me, I've always been a very curio
 
 <!---
 wixarth/wixarth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes
 --->
