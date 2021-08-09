@@ -6,4 +6,4 @@ Hello! I’m Diogo Silva 👋 Quick fact about me, I've always been a very curio
 
 
 <!---
-wixarth/wixarth is a ✨ special ✨ repository because its `README.md` (this file) appears on your Git
+wixarth/wixarth is a ✨ special ✨ repository because its `README.md` (this file) appears on your G
