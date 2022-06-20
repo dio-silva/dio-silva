@@ -2,7 +2,7 @@ Hello! I’m Diogo 👋 Some quick facts about me, I've always been a very curio
   
 🌱 I’m currently learning python so that I can become a Python Developer.  
 🤝 I’m looking to collaborate on all the projects that can improve my skills and help me learn new stuff.  
-📬 You can reach me using my personal email: thatdiogosilva@gmail.com
+📬 You can reach me using my personal email: thatdiogosilva@gmail.co
 
 
 <!---dio97
